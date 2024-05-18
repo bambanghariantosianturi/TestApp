@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">HelloJetpackCompose</string>
+    <string name="scroll_to_top">Scroll to Top</string>
+    <string name="search_hero">Cari pahlawanmu</string>
+    <string name="back">Back</string>
+    <string name="hero_app">Hero App</string>
+    <string name="hero_description">%s adalah pahlawan nasional yang tercatat dalam sejarah Negara Kesatuan Republik Indonesia. Pahlawan adalah dia yang berjuang dan berkontribusi untuk bangsa dan negara menuju ke yang lebih baik lagi, bermartabat serta di hargai.</string>
+    <string name="profile_description">My Name Is Bambang Harianto Sianturi
+I am very interested if converse about technology
+Information Technology and Science is My Background
+My Email : bambangsianturi26@gmail.com</string>
+    <string name="vehicle_app">Vehicle Track App</string>
+</resources>
